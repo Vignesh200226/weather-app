@@ -52,7 +52,4 @@ If you'd like to contribute to this project, feel free to fork the repository an
 
 If you have any questions or suggestions, feel free to reach out to me at r.r.vignesh9945@gmail.com.
 
-## screenshot
-
-    ![image](https://github.com/user-attachments/assets/09c508b2-2b39-4c2d-91a7-b517b4cddf2d)
 
